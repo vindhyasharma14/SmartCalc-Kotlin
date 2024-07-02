@@ -14,4 +14,3 @@ Explore the essential operators and variable handling in Kotlin, right from your
 
 This interactive app provides practical examples for each operator and variable concept, allowing you to experiment and see immediate results. Whether you're a novice developer starting with Kotlin or an experienced programmer expanding your skills, SmartCalc-Kotlin App  is tailored to enhance your understanding and proficiency.
 
-Download now and embark on a journey to master Kotlin's operators and variable handling—empowering you to write efficient, robust code for Android development and beyond!
